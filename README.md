@@ -24,3 +24,7 @@ python fourier_demo.py
 ```
 
 Select a waveform from the menu and the program will display both the time domain and frequency domain graphs in your terminal.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
