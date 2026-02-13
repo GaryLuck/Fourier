@@ -15,3 +15,4 @@ env/
 *.log
 .pytest_cache/
 .mypy_cache/
+CLAUDE.md
