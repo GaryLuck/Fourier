@@ -1,1 +1,0 @@
-Please write a python program that demonstrates the Fourier Transform.  Write the program in Python, and draw very simple graphs using a scrolling ascii terminal.  Allow the user to select one of three time domain graphs: sine, square wave, and saw tooth wave.  And then show a depiction of the time domain graph, and the frequency domain graph.
